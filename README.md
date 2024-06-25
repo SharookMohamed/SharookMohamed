@@ -1,6 +1,5 @@
-
 ![Development](https://github.com/SharookMohamed/sharook-mohamed/blob/main/sharook-banner.png)
-### Hi there 👋,Sharook Mohamed
+### Sharook Mohamed
 #### Software Developer
 
 ### Bio
