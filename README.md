@@ -4,7 +4,16 @@
 
 I'm Sharook Mohamed from India and I do web development . I really enjoying learning languages and framework like react as well as work in shopify, Currently working as a frontend developer in pinkvilla .
 
-Skills: HTML / CSS / JS / REACT / SHOPIFY
+### Skills
+ *Html,Css,Js
+ *Web development
+ *React js
+ *Shopify
+
+### Experience
+Skilled Software Developer with almost 2 years of experience in transforming designs into functional and responsive
+websites using HTML, CSS, JavaScript, and various frontend frameworks. Proficient in developing and customizing ecommerce solutions on the Shopify platform. Adept at collaborating with cross-functional teams to deliver highquality web applications that enhance user experience and meet business objectives.
+
 
 - 🔭 I’m currently working on Pinkvilla 
 - 🌱 I’m currently learning React js 
