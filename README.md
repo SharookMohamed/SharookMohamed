@@ -1,6 +1,6 @@
 ### Hi there 👋, Sharook Mohamed
 #### Development
-![Development](https://media.licdn.com/dms/image/D4E16AQEI6kzWUI9uNw/profile-displaybackgroundimage-shrink_350_1400/0/1719309061192?e=1724889600&v=beta&t=NB-Z3fT5KDHFQGP13jk97BM_NEXONqWRcsXbt2Ecs0c)
+![Development](https://github.com/SharookMohamed/sharook-mohamed/blob/main/sharook-banner.png)
 
 I'm Sharook Mohamed from India and I do web development . I really enjoying learning languages and framework like react as well as work in shopify, Currently working as a frontend developer in pinkvilla .
 
