@@ -20,7 +20,7 @@ websites using HTML, CSS, JavaScript, and various frontend frameworks. Proficien
 
 ### Example of my project i have worked on
 <a href="https://www.pinkvilla.com/">
-<img src="https://github.com/SharookMohamed/sharook-mohamed/blob/main/IMG_7845.PNG" width="250">
+<!-- <img src="https://github.com/SharookMohamed/sharook-mohamed/blob/main/IMG_7845.PNG" width="250"> -->
   </a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SharookMohamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharook-mohamed-941880224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/srk_____/)  
