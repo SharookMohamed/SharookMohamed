@@ -6,12 +6,14 @@
 I'm Sharook Mohamed from India and I do web development . I really enjoying learning languages and framework like react as well as work in shopify, Currently working as a frontend developer in pinkvilla .
 
 
-### Skills
-- Html,Css,Js
-- React js
-- shopify
-- Web development
-- Responsive Design
+## Skills
+- **HTML** ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg)
+- **CSS** ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg)
+- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg)
+- **React.js** ![React](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg)
+- **Shopify** ![Shopify](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg)
+- **Web Development** ![Web Development](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)
+- **Responsive Design** ![Responsive Design](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/responsive.svg) <!-- Example icon, you may replace this with a suitable one -->
 
 
 ### Experience
