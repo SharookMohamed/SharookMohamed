@@ -28,7 +28,7 @@ websites using HTML, CSS, JavaScript, and various frontend frameworks. Proficien
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SharookMohamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharook-mohamed-941880224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/srk_____/)  
 
 ## Profile Views
-- GitHub: [View My Profile](https://github.com/SharookMohamed) ![Views](https://img.shields.io/badge/Views-123-brightgreen) <!-- Replace '123' with the actual view count -->
-- LinkedIn: [View My Profile](https://www.linkedin.com/in/sharook-mohamed-941880224/) ![Views](https://img.shields.io/badge/Views-456-brightgreen) <!-- Replace '456' with the actual view count -->
+- GitHub: [View My Profile](https://github.com/SharookMohamed) ![Views](https://img.shields.io/badge/Views-3-brightgreen) 
+- LinkedIn: [View My Profile](https://www.linkedin.com/in/sharook-mohamed-941880224/) ![Views](https://img.shields.io/badge/Views-456-brightgreen) 
 
 
