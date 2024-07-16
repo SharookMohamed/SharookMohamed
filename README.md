@@ -14,7 +14,6 @@ I'm Sharook Mohamed from India and I do web development . I really enjoying lear
 - **React.js** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" width="20" />
 - **Shopify** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg" width="20" />
 - **Web Development** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="20" />
-- **Responsive Design** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/responsive.svg" width="20" /> <!-- Example icon, you may replace this with a suitable one -->
 
 
 ### Experience
@@ -27,4 +26,9 @@ websites using HTML, CSS, JavaScript, and various frontend frameworks. Proficien
   </a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SharookMohamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharook-mohamed-941880224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/srk_____/)  
+
+## Profile Views
+- GitHub: [View My Profile](https://github.com/SharookMohamed) ![Views](https://img.shields.io/badge/Views-123-brightgreen) <!-- Replace '123' with the actual view count -->
+- LinkedIn: [View My Profile](https://www.linkedin.com/in/sharook-mohamed-941880224/) ![Views](https://img.shields.io/badge/Views-456-brightgreen) <!-- Replace '456' with the actual view count -->
+
 
