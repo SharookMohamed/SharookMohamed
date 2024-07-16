@@ -38,7 +38,6 @@ Skilled Software Developer with almost 2 years of experience in transforming des
 - **GitHub**: [View My Profile](https://github.com/SharookMohamed) ![Views](https://img.shields.io/badge/Views-3-brightgreen)
 - **LinkedIn**: [View My Profile](https://www.linkedin.com/in/sharook-mohamed-941880224/) ![Views](https://img.shields.io/badge/Views-456-brightgreen)
 -->
----
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SharookMohamed)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharook-mohamed-941880224/)  
