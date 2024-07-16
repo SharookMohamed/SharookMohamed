@@ -6,15 +6,15 @@
 I'm Sharook Mohamed from India and I do web development . I really enjoying learning languages and framework like react as well as work in shopify, Currently working as a frontend developer in pinkvilla .
 
 ## Skills
-- **HTML** ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg)
-- **CSS** ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg)
-- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg)
-- **Java** ![Java](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg)
-- **SQL** ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg)
-- **React.js** ![React](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg)
-- **Shopify** ![Shopify](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg)
-- **Web Development** ![Web Development](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)
-- **Responsive Design** ![Responsive Design](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/responsive.svg) <!-- Example icon, you may replace this with a suitable one -->
+- **HTML** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" width="20" />
+- **CSS** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" width="20" />
+- **JavaScript** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" width="20" />
+- **Java** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" width="20" />
+- **SQL** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" width="20" />
+- **React.js** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" width="20" />
+- **Shopify** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg" width="20" />
+- **Web Development** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="20" />
+- **Responsive Design** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/responsive.svg" width="20" /> <!-- Example icon, you may replace this with a suitable one -->
 
 
 ### Experience
