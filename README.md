@@ -27,8 +27,10 @@ Skilled Software Developer with almost 2 years of experience in transforming des
 
 ### Example of My Projects
 <a href="https://www.pinkvilla.com/">Visit Pinkvilla</a>
+<a href="https://17looms.in/">Visit 17looms</a>
 
-[![Project Screenshot](https://github.com/SharookMohamed/sharook-mohamed/blob/main/IMG_7845.PNG)](https://www.pinkvilla.com/) <!-- Uncomment this line for a project screenshot -->
+<!--
+[![Project Screenshot](https://github.com/SharookMohamed/sharook-mohamed/blob/main/IMG_7845.PNG)](https://www.pinkvilla.com/)  Uncomment this line for a project screenshot -->
 
 ---
 
